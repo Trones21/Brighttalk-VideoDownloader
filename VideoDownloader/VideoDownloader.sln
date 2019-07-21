@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoDownloader", "VideoDownloader\VideoDownloader.csproj", "{C41AD3C8-088F-4153-8A05-B6EA26A2685A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB268042-23C8-424D-8AC5-5B310604A275}"
+	ProjectSection(SolutionItems) = preProject
+		VideoDownloader\Brighttalk Download.user.js = VideoDownloader\Brighttalk Download.user.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41AD3C8-088F-4153-8A05-B6EA26A2685A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41AD3C8-088F-4153-8A05-B6EA26A2685A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41AD3C8-088F-4153-8A05-B6EA26A2685A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41AD3C8-088F-4153-8A05-B6EA26A2685A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C26D742-51F7-48E8-AAEC-D669B9B086AB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tronesde.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VideoDownloader\\VideoDownloader.csproj
+		SccProjectName1 = VideoDownloader
+		SccLocalPath1 = VideoDownloader
+	EndGlobalSection
+EndGlobal
