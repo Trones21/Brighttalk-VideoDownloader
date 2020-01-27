@@ -12,7 +12,7 @@ namespace VideoMerge
 
         static void Main(string[] args)
         {
-            string stringSplitter = "_PK598_";
+            string stringSplitter = "SP_123";
             string[] parsedArgs = parseArgs(args, stringSplitter);
             if (validateArgs(parsedArgs, stringSplitter))
             {
